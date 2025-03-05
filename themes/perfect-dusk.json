@@ -296,6 +296,7 @@
         "terminal.ansi.bright_white": "#ffffff",
         "terminal.ansi.bright_yellow": "#ebff00",
         "terminal.ansi.cyan": "#00fff7",
+        "terminal.ansi.bright_black": "#525561ff",
         "terminal.ansi.dim_black": "#2e2e2e",
         "terminal.foreground": null,
         "terminal.dim_foreground": null,
