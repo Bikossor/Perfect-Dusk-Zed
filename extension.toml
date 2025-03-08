@@ -1,6 +1,6 @@
 id = "perfect-dusk"
 name = "Perfect Dusk"
-version = "1.0.0"
+version = "1.0.1"
 schema_version = 1
 authors = ["Bikossor <perfect-dusk@almost.mozmail.com>"]
 description = "Beautiful and accessible dark theme for your favorite code editor"
